@@ -3,3 +3,4 @@ __pycache__/
 myenv/
 venv/
 .vscode/
+trained_model.npz

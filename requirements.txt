@@ -2,3 +2,6 @@ nltk
 streamlit
 matplotlib
 seaborn
+pandas
+numpy
+scikit-learn
